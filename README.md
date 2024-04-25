@@ -16,6 +16,13 @@ Tkinter library<br>
 psutil library<br>
 GPUtil library<br>
 <br>
+**System Requirements**
+* Nvidia GPU<br>
+<br>
+**Known Issues**<br>
+* The CPU reading may not be extremely accurate.<br>
+* The program has been tested to work best when run through native Linux or the Windows Command Prompt, as the "stay on top" function may not work correctly in virtual environments.<br>
+* Testing without a GPU has resulted in an error.<br>
 **Usage**<br>
 Clone this repository to your local machine.<br>
 Install the required libraries by running pip install -r requirements.txt.<br>
