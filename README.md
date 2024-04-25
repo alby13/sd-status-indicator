@@ -20,6 +20,8 @@ GPUtil library<br>
 - Nvidia GPU<br>
 <br>
 **Known Issues**<br>
+<br>
+**Known Issues**<br>
 - The CPU reading may not be extremely accurate.<br>
 - The program has been tested to work best when run through native Linux or the Windows Command Prompt, as the "stay on top" function may not work correctly in virtual environments.<br>
 - Testing without a GPU has resulted in an error.<br>
