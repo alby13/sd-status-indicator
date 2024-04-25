@@ -21,11 +21,10 @@ GPUtil library
 - Nvidia GPU  
   
 **Known Issues**  
-  
-**Known Issues**  
 - The CPU reading may not be extremely accurate.  
 - The program has been tested to work best when run through native Linux or the Windows Command Prompt, as the "stay on top" function may not work correctly in virtual environments.  
-- Testing without a GPU has resulted in an error.  
+- Testing without a GPU has resulted in an error.
+  
 **Usage**  
 Clone this repository to your local machine.  
 Install the required libraries by running pip install -r requirements.txt.  
