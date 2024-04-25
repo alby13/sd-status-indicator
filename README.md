@@ -26,7 +26,7 @@ GPUtil library
   
 **Usage**  
 Clone this repository to your local machine.  
-Install the required libraries by running pip install -r requirements.txt.  
+Install the required libraries by running pip to install the requirements.  
 Run the script by executing python sd-status-indicator.py.  
 The graphical window will appear, displaying the CPU and GPU usage.  
   
