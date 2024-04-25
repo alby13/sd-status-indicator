@@ -1,7 +1,7 @@
 # sd-status-indicator<br>
 **Stable Diffusion Status Indicator Utility**<br>
-<br>
 **SD Status Indicator**<br>
+<br>
 **About**<br>
 The SD Status Indicator is a Python utility that monitors CPU and GPU usage to notify the user when Stable Diffusion is ready to be used. The program displays a graphical window with a circle that turns red when GPU usage exceeds 70%.<br>
 <br>
@@ -9,16 +9,19 @@ The SD Status Indicator is a Python utility that monitors CPU and GPU usage to n
 Monitors CPU and GPU usage<br>
 Displays a graphical window with a circle that turns red when GPU usage exceeds 70%<br>
 Provides a simple and intuitive interface for users to monitor Stable Diffusion status<br>
+<br>
 **Requirements**<br>
 Python 3.x<br>
 Tkinter library<br>
 psutil library<br>
 GPUtil library<br>
+<br>
 **Usage**<br>
 Clone this repository to your local machine.<br>
 Install the required libraries by running pip install -r requirements.txt.<br>
 Run the script by executing python sd-status-indicator.py.<br>
 The graphical window will appear, displaying the CPU and GPU usage.<br>
+<br>
 **License**<br>
 **Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software solely for the purpose of developing, testing, and using with artificial intelligence (AI) and machine learning (ML) applications.**<br>
 **Restrictions**<br>
