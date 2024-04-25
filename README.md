@@ -3,7 +3,7 @@
 **SD Status Indicator**  
   
 **About**  
-The SD Status Indicator is a Python utility that monitors CPU and GPU usage to notify the user when Stable Diffusion is ready to be used.  The program displays a graphical window with a circle that turns red when GPU usage exceeds 70%.  
+The SD Status Indicator is a Python utility that monitors CPU and GPU usage to notify the user when Stable Diffusion is ready to be used.   The program displays a graphical window with a circle that turns red when GPU usage exceeds 70%.  
   
 **Features**  
 Monitors CPU and GPU usage, and creates a window that stays on top  
