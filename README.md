@@ -15,7 +15,7 @@ SD Status Indicator now comes in two flavors.
 - Windows
 - Linux (Python Script)
   
-**Python Requirements**  
+**Linux/Python Requirements**  
 Python 3.x  
 Tkinter library  
 psutil library  
