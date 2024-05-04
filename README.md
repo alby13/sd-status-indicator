@@ -15,14 +15,15 @@ SD Status Indicator now comes in two flavors.
 - Windows
 - Linux (Python Script)
   
+**System Requirements**  
+- Nvidia GPU
+
 **Linux/Python Requirements**  
 Python 3.x  
 Tkinter library  
 psutil library  
 GPUtil library  
   
-**System Requirements**  
-- Nvidia GPU  
   
 **Known Issues**  
 - The CPU reading may not be extremely accurate.  
